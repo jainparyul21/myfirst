@@ -1,3 +1,3 @@
 # myfirst
 
-nothing fancy here
+nothing fancy here, it was a demo repo
